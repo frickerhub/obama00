@@ -1,1 +1,0 @@
-alert("Copy The Script.")
