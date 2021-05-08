@@ -1,0 +1,3 @@
+if game.PlaceId == 4581966615 then
+loadstring(game:HttpGet(('https://frickerhub.github.io/obama00/anomic/obamaanomic00.lua')))()
+end
